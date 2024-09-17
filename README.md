@@ -1,4 +1,4 @@
-# Author: Giovanni Roncancio, Data Scientist
+# Author: Giovanni Roncancio, Data Scientist.
 Welcome to the Movie Recommendation System, a robust platform designed to provide personalized movie recommendations. This system employs various recommendation algorithms including Collaborative Filtering (KNN), Content-Based Filtering (TF-IDF), and Jaccard Similarity, along with insights from Exploratory Data Analysis (EDA).
 
 # Table of Contents
@@ -63,12 +63,12 @@ Imagine having access to streaming platform data and using it to enhance user ex
 As data scientists, we analyzed streaming data using Python to build a personalized movie recommendation engine that delivers precise and relevant suggestions. This system revolutionizes how users discover new content by leveraging advanced machine learning techniques.
 
 # Team Members
-Participants	Roles	Social Media
-Mirna Prieto	Data Scientist	LinkedIn
-Lucel Da Silva	Data Scientist	LinkedIn
-Juan Campos	Data Scientist	LinkedIn
-Wilfer Alexander	Data Scientist	LinkedIn
-Giovanni Roncancio	Data Scientist	LinkedIn
+| Participants | Roles| Social Media |
+| **Mirna Prieto** | Data Scientist |	[LinkedIn] |
+| **Lucel Da Silva** | Data Scientist |	[LinkedIn] |
+| **Juan Campos** |	Data Scientist | [LinkedIn] |
+| **Wilfer Alexander** |	Data Scientist | [LinkedIn] |
+| **Giovanni Roncancio** |	Data Scientist |	[LinkedIn] (https://www.linkedin.com/in/giovanni-roncancio-ds/) |
 
 This project was a collaborative effort by the participants of the Bootcamp Xperience Channel.
 
