@@ -72,7 +72,10 @@ As data scientists, we analyzed streaming data using Python to build a personali
 |**Wilfer Alexander**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfer-echavarria-bb19191b/)</a> |
 |**Giovanni Roncancio**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-roncancio-ds/)</a> |
 
-This project was a collaborative effort by the participants of the Bootcamp Xperience Channel.
+> [!IMPORTANT]
+> Esto fue un proyecto que participamos los miembros del canal del
+> 
+>[![](https://img.shields.io/youtube/channel/subscribers/UCuerQOTskuNkddcT738357g?style=for-the-badge&logo=youtube&label=Bootcamp%20Xperience)](https://www.youtube.com/@BootcampXperience)
 
 # Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
