@@ -20,12 +20,12 @@ Jaccard Similarity: Recommends movies based on genre similarities using the Jacc
 Popular and Weighted Recommendations: Offers top movies based on average ratings and vote counts.
 
 # Technologies Used
-Python
-Pandas
-Streamlit
-Seaborn
-Scikit-learn
-Matplotlib
+* Python
+* Pandas
+* Streamlit
+* Seaborn
+* Scikit-learn
+* Matplotlib
 
 # Features
 Personalized Recommendations: Users can enter their ID or choose a specific movie to get tailored recommendations.
