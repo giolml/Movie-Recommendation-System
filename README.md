@@ -63,7 +63,9 @@ Imagine having access to streaming platform data and using it to enhance user ex
 As data scientists, we analyzed streaming data using Python to build a personalized movie recommendation engine that delivers precise and relevant suggestions. This system revolutionizes how users discover new content by leveraging advanced machine learning techniques.
 
 # Team Members
+
 | Participants | Roles| Social Media |
+|---|---|---|
 | **Mirna Prieto** | Data Scientist |	[LinkedIn] |
 | **Lucel Da Silva** | Data Scientist |	[LinkedIn] |
 | **Juan Campos** |	Data Scientist | [LinkedIn] |
