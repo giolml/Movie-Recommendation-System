@@ -64,13 +64,13 @@ As data scientists, we analyzed streaming data using Python to build a personali
 
 # Team Members
 
-| Participants | Roles| Social Media |
-|---|---|---|
-| **Mirna Prieto** | Data Scientist |	[LinkedIn] |
-| **Lucel Da Silva** | Data Scientist |	[LinkedIn] |
-| **Juan Campos** |	Data Scientist | [LinkedIn] |
-| **Wilfer Alexander** |	Data Scientist | [LinkedIn] |
-| **Giovanni Roncancio** |	Data Scientist |	[LinkedIn] (https://www.linkedin.com/in/giovanni-roncancio-ds/) |
+|Participantes|Roles|Redes|
+|:---:|:---:|:---:|
+|**Mirna Prieto**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mirna-prieto-990356242/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+|**Lucel Da Silva**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luceldasilva/)</a>
+|**Juan Campos**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumacaq/)</a> |
+|**Wilfer Alexander**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfer-echavarria-bb19191b/)</a> |
+|**Giovanni Roncancio**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-roncancio-ds/)</a> |
 
 This project was a collaborative effort by the participants of the Bootcamp Xperience Channel.
 
